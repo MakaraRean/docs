@@ -68,7 +68,7 @@ Selecting individual or multiple layers will filter the packages and vulnerabili
 
 Images may be exposed to vulnerabilities and exploits. These are detected and listed on the right-hand side, grouped by package, and sorted in order of severity. Further information can be examined by expanding the sections such as if the vulnerability has an available fix. For even more details, you can click through to the link on dso.docker.com.
 
-If you have any feedback about this feature can you use the "Give Feedback" link inside Docker Desktop to contact the development team, we would love to hear from you!
+If you have any feedback about this feature you can use the "Give Feedback" link inside Docker Desktop to contact the development team, we would love to hear from you!
 
 ## Pull the latest image from Docker Hub
 
